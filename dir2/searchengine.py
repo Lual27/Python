@@ -9,6 +9,6 @@ elif website == "youtube":
   name = input("search: ")
   webbrowser.open("https://www.youtube.com/watch?v=" + name)
   
-elif website == "chatgbt":
+elif website == "facebook":
   name = input("search: ")
-  webbrowser.open("https://chat.openai.com/chat" + name)
+  webbrowser.open("https://www.facebook.com/" + name)
