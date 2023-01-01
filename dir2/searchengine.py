@@ -11,4 +11,4 @@ elif website == "youtube":
   
 elif website == "facebook":
   name = input("search: ")
-  webbrowser.open("https://www.facebook.com/" + name)
+  webbrowser.open("https://www.facebook.com/gyvhbjnmsit" + name)
